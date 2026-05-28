@@ -23,6 +23,14 @@ const abdisamad = {
 
 ---
 
+### 🚧 Currently shipping
+
+- **Curava** — Dutch healthcare SaaS for care coordinators · Next.js 15 · Supabase · Vercel
+- **Pro trading system** — Quantitative trading framework · Python · multi-month build
+- **[Nexora](https://github.com/abii2024/nexora)** — Healthcare guidance platform for Sadiq Beheer B.V. · Laravel · MySQL
+
+---
+
 ### Tech I work with
 
 <p>
