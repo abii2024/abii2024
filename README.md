@@ -1,92 +1,120 @@
-<h1 align="center">Hi, I'm Abdisamad 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-stack developer based in Rotterdam 🇳🇱</b><br>
-  Building healthcare SaaS, trading systems, and modern web apps.
-</p>
+<a href="https://abii2024.github.io/portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%C2%B7+Rotterdam+%F0%9F%87%B3%F0%9F%87%B1;Building+healthcare+SaaS+%40+Curava;Trading+systems+%E2%80%A2+Web+%E2%80%A2+Automation;Open+to+freelance%2C+full-time+%26+collabs" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://abii2024.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-abii2024.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abii2024&style=for-the-badge&color=0A66C2" alt="Profile views">
+</div>
+
+---
+
+### `whoami`
+
+```ts
+const abdisamad = {
+  role: "Full-stack developer",
+  base: "Rotterdam, Netherlands",
+  building: ["Curava (healthcare SaaS)", "Pro trading system"],
+  stack: ["TypeScript", "Next.js", "Supabase", "Laravel", "Python"],
+  open_to: ["Freelance", "Full-time", "Collaborations"],
+  portfolio: "https://abii2024.github.io/portfolio/",
+};
+```
+
+---
+
+### Tech I work with
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7AA2F7">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=7AA2F7">
+  <img alt="React" src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7AA2F7">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=7AA2F7">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7AA2F7">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-1a1b26?style=flat-square&logo=laravel&logoColor=7AA2F7">
+  <img alt="Python" src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=7AA2F7">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=7AA2F7">
 </p>
 
 ---
 
-### About me
+### GitHub at a glance
 
-- 🏥 Currently building **[Curava](https://github.com/abii2024)** — a Dutch healthcare SaaS platform on Next.js & Supabase
-- 📊 Working on a **pro trading system** in Python (multi-month project)
-- 🌍 Based in **Rotterdam**, open to remote & on-site opportunities
-- 💼 Available for freelance, full-time roles, and collaborations
-- 🌐 Portfolio: **[abii2024.github.io/portfolio](https://abii2024.github.io/portfolio/)**
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abii2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&count_private=true&include_all_commits=true" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=abii2024&theme=tokyonight&hide_border=true&background=1a1b26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abii2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" alt="Top languages" />
+</div>
 
 ---
 
-### Tech stack
+### 🐍 Watch the snake eat my contributions
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-**Frameworks & tools**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-</p>
-
-**Data & infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abii2024/abii2024/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abii2024/abii2024/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abii2024/abii2024/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ### Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Nexora](https://github.com/abii2024/nexora)** | Healthcare guidance system for Sadiq Beheer B.V. | Laravel · PHP · MySQL |
-| **[Portfolio](https://github.com/abii2024/portfolio)** | Premium portfolio with 3D hero, glassmorphism & particle animations · [Live](https://abii2024.github.io/portfolio/) | HTML · CSS · JS |
-| **[Gemeente](https://github.com/abii2024/gemeente)** | Municipality portal with complaint management system | Laravel · Blade |
-| **[EduLearn](https://github.com/abii2024/EduLearn)** | Complete Learning Management System with MVC architecture | PHP · MVC · MySQL |
-| **[Techniek College Rotterdam](https://github.com/abii2024/techniek-college-rotterdam)** | Technical college website with programs & application form | HTML · CSS · JS |
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/nexora"><b>Nexora</b></a></td>
+    <td>Healthcare guidance &amp; case management platform built for Sadiq Beheer B.V.</td>
+    <td>Laravel · PHP · MySQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/portfolio"><b>Portfolio</b></a> · <a href="https://abii2024.github.io/portfolio/">live</a></td>
+    <td>Premium portfolio with 3D hero, glassmorphism &amp; particle animations.</td>
+    <td>HTML · CSS · JS</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/gemeente"><b>Gemeente</b></a></td>
+    <td>Municipality portal with citizen complaints management system.</td>
+    <td>Laravel · Blade</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/EduLearn"><b>EduLearn</b></a></td>
+    <td>Complete Learning Management System with MVC architecture.</td>
+    <td>PHP · MVC · MySQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/techniek-college-rotterdam"><b>Techniek College Rotterdam</b></a></td>
+    <td>Technical college website with programs &amp; application form.</td>
+    <td>HTML · CSS · JS</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/abii2024/twitter-clone"><b>Twitter Clone</b></a></td>
+    <td>Full-stack Twitter clone with real-time posts, likes &amp; auth.</td>
+    <td>PHP · MVC</td>
+  </tr>
+</table>
 
 ---
 
-### GitHub stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abii2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abii2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170">
-</p>
+<a href="https://abii2024.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Visit_my_portfolio_%E2%86%92-7AA2F7?style=for-the-badge&labelColor=1a1b26" alt="Portfolio">
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abii2024&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
+<sub>⭐ If something here is useful, a star is appreciated.</sub>
 
----
-
-### Let's connect
-
-<p align="center">
-  <a href="https://abii2024.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Visit_my_portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-<p align="center"><sub>⭐ If you like my work, consider starring a repo — it helps a lot.</sub></p>
+</div>
